@@ -1,0 +1,53 @@
+@font-face {
+  font-family: 'yun';
+
+  src: url('../bootstrap/fonts/glyphicons-halflings-regular.eot');
+  src: url('../bootstrap/fonts/glyphicons-halflings-regular.eot?#iefix') format('embedded-opentype'), url('../bootstrap/fonts/glyphicons-halflings-regular.woff') format('woff'), url('../bootstrap/fonts/glyphicons-halflings-regular.ttf') format('truetype'), url('../bootstrap/fonts/glyphicons-halflings-regular.svg#glyphicons_halflingsregular') format('svg');
+}
+.icon{
+	font-family: 'yun';
+	font-style: normal;
+}
+.loginIco{
+	font-family: 'yun';
+	font-style: normal;
+}
+.loginIco:before{
+	content: "\e260";
+}
+.topRightNav-icon1:before{
+	content: "\e044";
+}
+.topRightNav-icon2:before{
+	content: "\e145";
+}
+.topRightNav-icon3:before{
+	content: "\2601";
+}
+.btns-icon1:before{
+	content: "\e167";
+}
+.btns-icon2:before{
+	content: "\e117";
+}
+.btns-icon3:before{
+	content: "\e025";
+}
+.btns-icon4:before{
+	content: "\e145";
+}
+.btns-icon5:before{
+	content: "\e020";
+}
+.btns-icon6:before{
+	content: "\e047";
+}
+.paixuListIcon em:before{
+	content: "\e013";
+}
+.box div.active em:before{
+	content: "\e013";
+}
+.box-time div.active em:before{
+	content: "\e013";
+}
